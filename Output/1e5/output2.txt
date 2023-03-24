@@ -1,0 +1,2 @@
+Amount of collision: 123
+Collision rate: 0.00123
